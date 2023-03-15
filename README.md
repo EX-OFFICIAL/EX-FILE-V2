@@ -28,7 +28,7 @@
 
 - `cd EX-FILE-V2`
 
-- `python ex.py`
+- `python EX.py`
 
 	
     
